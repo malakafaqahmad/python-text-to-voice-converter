@@ -1,0 +1,3 @@
+hello i am an offline text to voice converter with the help of pyttsx3 and tkinter liabraries of python by afaq ahmad
+there is much to be done withing the project at this stage i can only convert text to audio, copy from clipboard and 
+save the converted voice to the device......stay tuned for the upcoming updates. thanks
